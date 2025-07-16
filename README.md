@@ -4,11 +4,11 @@ This repository contains the **updated codebase of the T2 model**, originally de
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 The model depends on a customized version of Mozaik:
 
-👉 [mozaik_4_T2 branch](https://github.com/ayush09062004/mozaik/tree/mozaik_4_T2)
+[mozaik_4_T2 branch](https://github.com/ayush09062004/mozaik/tree/mozaik_4_T2)
 
 ---
 
@@ -16,7 +16,7 @@ The model depends on a customized version of Mozaik:
 
 To install the dependencies and set up the environment for the **T2 model**, follow these steps:
 
-> ⚠️ Make sure Anaconda is **not in your `$PATH`**.
+> Make sure Anaconda is **not in your `$PATH`**.
 
 ```bash
 # Set up directory and unload modules
