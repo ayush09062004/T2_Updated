@@ -80,3 +80,8 @@ https://github.com/ayush09062004/mozaik.git
 cd mozaik
 git checkout mozaik_4_T2
 python setup.py install
+```
+---
+## Sample Bash File
+
+To run simulation on cluster, please refer to sampClean.sh(Make sure to Change simulations and output directory name accordingly).
